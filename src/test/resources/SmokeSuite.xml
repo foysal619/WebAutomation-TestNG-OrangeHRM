@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite thread-count="1" verbose="1" name="Web Automation TestNG OrangeHRM">
+    <suite-files>
+        <suite-file path="smoke/LoginPageSuite.xml"></suite-file>
+        <suite-file path="smoke/PIMpageSuite.xml"></suite-file>
+        <suite-file path="smoke/AdminPageSuite.xml"></suite-file>
+    </suite-files>
+</suite>

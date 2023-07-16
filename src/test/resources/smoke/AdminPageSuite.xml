@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Automation TestNG OrangeHRM">
+    <test name="Employee Search, Login, Update Test">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="testRunner.AdminPageTestRunner"></class>
+        </classes>
+    </test>
+</suite>
