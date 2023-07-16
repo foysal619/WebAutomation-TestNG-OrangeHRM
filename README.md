@@ -1,5 +1,5 @@
 # WebAutomation-TestNG-OrangeHRM
-In this repository I have automated the OrageHRM with different scenario. Create Smoke & Master Suite for easy execution. Also generated the Allure Report for better visibility.
+In this repository I have automated the OrangeHRM with different scenario. Create Smoke & Master Suite for easy execution. Also generated the Allure Report for better visibility.
 
 ## Technology used:
 - Selenium Webdriver
